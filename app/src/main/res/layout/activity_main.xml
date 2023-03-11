@@ -39,6 +39,7 @@
             android:background="#FFF"
             android:layout_marginRight="33dp"
             android:layout_alignParentRight="true" />
+
     </RelativeLayout>
     <LinearLayout
         android:layout_width="match_parent"
