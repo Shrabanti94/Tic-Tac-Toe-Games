@@ -7,7 +7,7 @@ public class newfile {
         return age;
     }
     newfile(){
-        
+
     }
     public void setAge(int age) {
         this.age = age;
